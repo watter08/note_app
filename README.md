@@ -53,30 +53,33 @@ class NoteModel extends HiveObject {
     required this.emoji
   });
 }
+```
+# Dependencias
 
-Dependencias
-La aplicación utiliza las siguientes dependencias para proporcionar una experiencia fluida y moderna:
+## La aplicación utiliza las siguientes dependencias para proporcionar una experiencia fluida y moderna:
 
-provider: ^6.1.2
-hive: ^2.0.5
-hive_flutter: ^1.1.0
-emoji_picker_flutter: ^1.0.0
-toastification: ^2.1.0
-auto_route: ^8.1.0
-intl: ^0.18.0
-hive_generator: ^2.0.1
-build_runner: ^2.3.0
-auto_route_generator: ^8.1.0
-Instalación
-Para instalar la aplicación, sigue estos pasos:
+### provider: ^6.1.2
+### hive: ^2.0.5
+### hive_flutter: ^1.1.0
+### emoji_picker_flutter: ^1.0.0
+### toastification: ^2.1.0
+### auto_route: ^8.1.0
+### intl: ^0.18.0
+### hive_generator: ^2.0.1
+### build_runner: ^2.3.0
+### auto_route_generator: ^8.1.0
 
-Clona el repositorio:
 
-git clone https://github.com/watter08/note_app.git
+# Instalación
+## Para instalar la aplicación, sigue estos pasos:
 
-Instala las dependencias:
+# Clona el repositorio:
 
-flutter pub get
+## git clone https://github.com/watter08/note_app.git
 
-Licencia
-Este proyecto está licenciado bajo la MIT License.
+# Instala las dependencias:
+
+## flutter pub get
+
+# Licencia
+## Este proyecto está licenciado bajo la MIT License.
