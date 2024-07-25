@@ -1,6 +1,21 @@
 # Notas App
 
-![Captura de Pantalla 1](assets/images/1.jpeg) ![Captura de Pantalla 2](assets/images/2.jpeg) ![Captura de Pantalla 3](assets/images/3.jpeg)
+<table>
+  <tr>
+    <td><img src="assets/images/1.jpeg" alt="Captura de Pantalla 1" width="300" /></td>
+    <td><img src="assets/images/2.jpeg" alt="Captura de Pantalla 2" width="300" /></td>
+    <td><img src="assets/images/3.jpeg" alt="Captura de Pantalla 3" width="300" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/4.jpeg" alt="Captura de Pantalla 4" width="300" /></td>
+    <td><img src="assets/images/5.jpeg" alt="Captura de Pantalla 5" width="300" /></td>
+    <td><img src="assets/images/6.jpeg" alt="Captura de Pantalla 6" width="300" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/7.jpeg" alt="Captura de Pantalla 7" width="300" /></td>
+  </tr>
+</table>
+
 
 **Notas App** es una aplicación intuitiva y visualmente atractiva diseñada para ayudarte a gestionar tus notas de manera eficiente. La aplicación permite a los usuarios guardar notas con diferentes categorías y estilos de colores, filtrar notas por categoría o título, y proporciona una experiencia de usuario fluida y personalizada.
 
