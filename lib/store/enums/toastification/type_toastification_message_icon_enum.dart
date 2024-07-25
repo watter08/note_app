@@ -1,0 +1,1 @@
+enum ETypeToastificationMessageIcon { success, warning, error, info }
